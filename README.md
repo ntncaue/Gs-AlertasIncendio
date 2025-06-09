@@ -4,6 +4,15 @@ Este projeto implementa um sistema de detecção de incêndio utilizando IoT, co
 
 ---
 
+## 🎯 Objetivos
+
+- Monitorar ambientes quanto a temperatura, presença de gás e chama.
+- Emitir alertas imediatos (luminosos e sonoros) em situações de risco.
+- Transmitir dados em tempo real para a nuvem para visualização remota.
+- Testar e validar a solução em ambiente físico ou simulado (Wokwi).
+- Garantir a reprodutibilidade e documentar todas as etapas do projeto.
+
+
 ## Componentes Utilizados
 
 ### Hardware (Simulado ou Real)
