@@ -1,0 +1,17 @@
+# Bibliotecas necessárias para o projeto
+
+1. DHT sensor library by Adafruit (para sensor de temperatura)
+   - Versão: 1.4.4
+   - Link: https://github.com/adafruit/DHT-sensor-library
+
+2. Adafruit Unified Sensor
+   - Versão: 1.1.9
+   - Link: https://github.com/adafruit/Adafruit_Sensor
+
+3. ThingSpeak
+   - Versão: 2.0.1
+   - Link: https://github.com/mathworks/thingspeak-arduino
+
+4. ESP32 Dev Module
+   - Versão: 2.0.11
+   - Board URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
